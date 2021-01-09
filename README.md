@@ -1,2 +1,2 @@
-# Ecommerce-website
-It is a ecommece website like amozon, flipkart  on java
+# Hospital Management System
+It is desktop tool based on python
